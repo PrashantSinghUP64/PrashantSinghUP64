@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/PrashantSinghUP64">
-  font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Full+Stack+Developer+%7C+AI%2FML+Engineer;🧠+B.Tech+CSE+%7C+AKTU+%7C+Kanpur%2C+India;💡+Building+Intelligent+Products+at+Scale;🌏+Open+Source+%7C+EdTech+%7C+Cloud+Enthusiast;⚡+Oracle+OCI+Certified+Gen+AI+Professional" alt="Typing SVG" />
+  <img src="font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Full+Stack+Developer+%7C+AI%2FML+Engineer;🧠+B.Tech+CSE+%7C+AKTU+%7C+Kanpur%2C+India;💡+Building+Intelligent+Products+at+Scale;🌏+Open+Source+%7C+EdTech+%7C+Cloud+Enthusiast;⚡+Oracle+OCI+Certified+Gen+AI+Professional" alt="Typing SVG" />
 </a>
 
 <br/>
