@@ -2,17 +2,15 @@
 
 <!-- Dynamic Gradient Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prashant%20Kumar%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
-<!-- Typing Animation -->
-<a href="https://github.com/PrashantSinghUP64">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Full+Stack+Developer+%7C+AI%2FML+Engineer;🧠+B.Tech+CSE+%7C+AKTU+%7C+Kanpur%2C+India;💡+Building+Intelligent+Products+at+Scale;🌏+Open+Source+%7C+EdTech+%7C+Cloud+Enthusiast;⚡+Oracle+OCI+Certified+Gen+AI+Professional" alt="Typing SVG" />
-</a>
-```
+
+<!-- Typing Animation - emojis removed from URL to prevent broken image bug -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;B.Tech+CSE+%7C+AKTU+%7C+Kanpur%2C+India;Building+Intelligent+Products+at+Scale;Open+Source+%7C+EdTech+%7C+Cloud;Oracle+OCI+Certified+Gen+AI+Professional" alt="Typing SVG" />
+
+<br/>
 
 <!-- Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=PrashantSinghUP64&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/PrashantSinghUP64?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-22c55e?style=for-the-badge&labelColor=1e1b4b" alt="Open to Work"/>
 </p>
@@ -30,8 +28,6 @@ const prashant = {
   education   : "B.Tech CSE — MPGI, AKTU | Kanpur, India 🇮🇳 (2023–2027)",
   currentFocus: ["PlacementOS", "LangChain Apps", "Open Source Contributions"],
   certified   : ["Oracle OCI Gen AI Pro", "IBM Cybersecurity", "AWS Solutions Arch"],
-  philosophy  : "Ship fast. Learn faster. Build things that matter.",
-  funFact     : "I debug at 2 AM and call it 'productive silence' 🌙",
   reachMe     : "ps7027804@gmail.com",
 };
 ```
@@ -98,32 +94,36 @@ const prashant = {
 
 ## 🏅 Certifications
 
-> *Industry-recognized credentials from world-class organizations*
+> *Click any badge below to verify the certificate instantly — one click!*
 
 <div align="center">
 
-| # | 🏆 Certificate | 🏢 Issuer | 📅 Issued | 🔗 Verify |
-|:---:|---|---|---|:---:|
-| 1 | **Oracle Cloud Infrastructure 2025 — Generative AI Professional** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) Oracle University | Aug 25, 2025 *(Valid till Aug 2027)* | ✅ OCI Verified |
-| 2 | **Cybersecurity Fundamentals** | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) IBM SkillsBuild | Feb 07, 2025 | [Credly Badge](https://www.credly.com/badges/c780e8d2-2f69-4c29-9af6-ee8d1e5766e6) |
-| 3 | **Cybersecurity Job Simulation** | ![Mastercard](https://img.shields.io/badge/Mastercard-EB001B?style=flat-square&logo=mastercard&logoColor=white) Mastercard × Forage | Dec 18, 2024 | ✅ Forage Verified |
-| 4 | **Solutions Architecture Job Simulation** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) Amazon AWS × Forage | Dec 17, 2024 | ✅ Forage Verified |
-| 5 | **Career Essentials in Generative AI** | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) Microsoft × LinkedIn | Dec 16, 2024 | ✅ LinkedIn Learning |
-| 6 | **Data Visualization Using Python** | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) IBM | Jan 09, 2024 | [Credly Badge](https://www.credly.com/go/9Vur2s1G) |
-
-</div>
+### Click to View & Verify ↓
 
 <br/>
 
-<div align="center">
+[![Oracle OCI Gen AI](https://img.shields.io/badge/Oracle%20University-OCI%202025%20Gen%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D383DB7EA75A2C765CB0A36A3D9AB7C2C4BD4A15E0E882C31F1ACAD8F54B0040)
 
-![Oracle](https://img.shields.io/badge/Oracle%20OCI%20Certified-Gen%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1b4b)
-&nbsp;
-![IBM](https://img.shields.io/badge/IBM%20Certified-Cybersecurity%20%26%20Data%20Viz-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1b4b)
-&nbsp;
-![AWS](https://img.shields.io/badge/AWS%20Forage-Solutions%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1e1b4b)
-&nbsp;
-![Microsoft](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Generative%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1b4b)
+[![IBM Cybersecurity](https://img.shields.io/badge/IBM%20SkillsBuild-Cybersecurity%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a)](https://www.credly.com/badges/c780e8d2-2f69-4c29-9af6-ee8d1e5766e6)
+
+[![Mastercard Forage](https://img.shields.io/badge/Mastercard%20%C3%97%20Forage-Cybersecurity%20Job%20Simulation-EB001B?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=1a1a1a)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_uLRLtQHM8a4HPoxDC_1734539268803_completion_certificate.pdf)
+
+[![AWS Forage](https://img.shields.io/badge/Amazon%20AWS%20%C3%97%20Forage-Solutions%20Architecture%20Simulation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL5hBgNyBHRfN/SkYpQhM2YTzqGJrdz_pmnMSL5hBgNyBHRfN_uLRLtQHM8a4HPoxDC_1734467046434_completion_certificate.pdf)
+
+[![Microsoft LinkedIn](https://img.shields.io/badge/Microsoft%20%C3%97%20LinkedIn-Career%20Essentials%20in%20Gen%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/learning/certificates/35505f8c02fbb64ceebff690fd828b069103b2ebf899b8bb64213384397366cc)
+
+[![IBM Data Viz](https://img.shields.io/badge/IBM-Data%20Visualization%20Using%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a)](https://www.credly.com/go/9Vur2s1G)
+
+<br/>
+
+| # | Certificate | Issuer | Date | Status |
+|:---:|---|---|---|:---:|
+| 1 | Oracle Cloud Infrastructure 2025 — Gen AI Professional | Oracle University | Aug 25, 2025 | ✅ Valid till Aug 2027 |
+| 2 | Cybersecurity Fundamentals | IBM SkillsBuild | Feb 07, 2025 | ✅ Credly Verified |
+| 3 | Cybersecurity Job Simulation | Mastercard × Forage | Dec 18, 2024 | ✅ Forage Verified |
+| 4 | Solutions Architecture Job Simulation | Amazon AWS × Forage | Dec 17, 2024 | ✅ Forage Verified |
+| 5 | Career Essentials in Generative AI | Microsoft × LinkedIn | Dec 16, 2024 | ✅ LinkedIn Verified |
+| 6 | Data Visualization Using Python | IBM | Jan 09, 2024 | ✅ Credly Verified |
 
 </div>
 
@@ -136,8 +136,6 @@ const prashant = {
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -156,15 +154,11 @@ const prashant = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🧠 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
