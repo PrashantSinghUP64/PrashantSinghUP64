@@ -2,13 +2,11 @@
 
 <!-- Dynamic Gradient Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prashant%20Kumar%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
-
 <!-- Typing Animation -->
 <a href="https://github.com/PrashantSinghUP64">
-  <img src="font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Full+Stack+Developer+%7C+AI%2FML+Engineer;🧠+B.Tech+CSE+%7C+AKTU+%7C+Kanpur%2C+India;💡+Building+Intelligent+Products+at+Scale;🌏+Open+Source+%7C+EdTech+%7C+Cloud+Enthusiast;⚡+Oracle+OCI+Certified+Gen+AI+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Full+Stack+Developer+%7C+AI%2FML+Engineer;🧠+B.Tech+CSE+%7C+AKTU+%7C+Kanpur%2C+India;💡+Building+Intelligent+Products+at+Scale;🌏+Open+Source+%7C+EdTech+%7C+Cloud+Enthusiast;⚡+Oracle+OCI+Certified+Gen+AI+Professional" alt="Typing SVG" />
 </a>
-
-<br/>
+```
 
 <!-- Badges -->
 <p>
