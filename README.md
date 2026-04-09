@@ -94,47 +94,7 @@ const prashant = {
 
 ## 🏅 Certifications
 
-> *Click any badge to open & verify the certificate — opens instantly in a new tab!*
-
 <div align="center">
-
-<br/>
-
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D383DB7EA75A2C765CB0A36A3D9AB7C2C4BD4A15E0E882C31F1ACAD8F54B0040" target="_blank">
-  <img src="https://img.shields.io/badge/Oracle%20University-OCI%202025%20Gen%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a" alt="Oracle OCI Gen AI"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.credly.com/badges/c780e8d2-2f69-4c29-9af6-ee8d1e5766e6" target="_blank">
-  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Cybersecurity%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a" alt="IBM Cybersecurity"/>
-</a>
-
-<br/><br/>
-
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_uLRLtQHM8a4HPoxDC_1734539268803_completion_certificate.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Mastercard%20%C3%97%20Forage-Cybersecurity%20Job%20Simulation-EB001B?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=1a1a1a" alt="Mastercard Forage"/>
-</a>
-
-<br/><br/>
-
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL5hBgNyBHRfN/SkYpQhM2YTzqGJrdz_pmnMSL5hBgNyBHRfN_uLRLtQHM8a4HPoxDC_1734467046434_completion_certificate.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Amazon%20AWS%20%C3%97%20Forage-Solutions%20Architecture%20Simulation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" alt="AWS Forage"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/learning/certificates/35505f8c02fbb64ceebff690fd828b069103b2ebf899b8bb64213384397366cc" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20%C3%97%20LinkedIn-Career%20Essentials%20in%20Gen%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1a1a" alt="Microsoft LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.credly.com/go/9Vur2s1G" target="_blank">
-  <img src="https://img.shields.io/badge/IBM-Data%20Visualization%20Using%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a" alt="IBM Data Viz"/>
-</a>
-
-<br/><br/>
 
 | # | Certificate | Issuer | Date | Verify |
 |:---:|---|---|---|:---:|
@@ -332,41 +292,6 @@ const prashant = {
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=PrashantSinghUP64&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSinghUP64&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrashantSinghUP64&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantSinghUP64&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
