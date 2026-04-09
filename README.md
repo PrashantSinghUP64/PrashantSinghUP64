@@ -3,7 +3,7 @@
 <!-- Dynamic Gradient Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prashant%20Kumar%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-<!-- Typing Animation - emojis removed from URL to prevent broken image bug -->
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;B.Tech+CSE+%7C+AKTU+%7C+Kanpur%2C+India;Building+Intelligent+Products+at+Scale;Open+Source+%7C+EdTech+%7C+Cloud;Oracle+OCI+Certified+Gen+AI+Professional" alt="Typing SVG" />
 
 <br/>
@@ -26,13 +26,13 @@ const prashant = {
   name        : "Prashant Kumar Singh",
   title       : "Full Stack Developer & AI/ML Engineer",
   education   : "B.Tech CSE — MPGI, AKTU | Kanpur, India 🇮🇳 (2023–2027)",
-  currentFocus: ["PlacementOS", "LangChain Apps", "Open Source Contributions"],
+  currentFocus: ["InterviewIQ", "VidCognify", "LangChain Apps", "Open Source"],
   certified   : ["Oracle OCI Gen AI Pro", "IBM Cybersecurity", "AWS Solutions Arch"],
   reachMe     : "ps7027804@gmail.com",
 };
 ```
 
-- 🔭 &nbsp;Currently building **[PlacementOS](https://placement-os-mu.vercel.app/)** — AI-powered placement prep for Indian engineering students
+- 🔭 &nbsp;Currently building **[InterviewIQ](https://interviewiq64.vercel.app/)** — AI Mock Interview Platform & **[VidCognify](https://vid-cognify.vercel.app/)** — YouTube Intelligence Platform
 - 🏅 &nbsp;**Oracle OCI 2025 Certified Generative AI Professional** (Valid till Aug 2027)
 - 🌱 &nbsp;Exploring **LangChain · Agents · RAG Pipelines · AWS Cloud Architecture**
 - 💬 &nbsp;Ask me about **React, Node.js, Python, AI/ML, Full Stack Architecture**
@@ -94,36 +94,56 @@ const prashant = {
 
 ## 🏅 Certifications
 
-> *Click any badge below to verify the certificate instantly — one click!*
+> *Click any badge to open & verify the certificate — opens instantly in a new tab!*
 
 <div align="center">
 
-### Click to View & Verify ↓
-
 <br/>
 
-[![Oracle OCI Gen AI](https://img.shields.io/badge/Oracle%20University-OCI%202025%20Gen%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D383DB7EA75A2C765CB0A36A3D9AB7C2C4BD4A15E0E882C31F1ACAD8F54B0040)
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D383DB7EA75A2C765CB0A36A3D9AB7C2C4BD4A15E0E882C31F1ACAD8F54B0040" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20University-OCI%202025%20Gen%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a" alt="Oracle OCI Gen AI"/>
+</a>
 
-[![IBM Cybersecurity](https://img.shields.io/badge/IBM%20SkillsBuild-Cybersecurity%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a)](https://www.credly.com/badges/c780e8d2-2f69-4c29-9af6-ee8d1e5766e6)
+<br/><br/>
 
-[![Mastercard Forage](https://img.shields.io/badge/Mastercard%20%C3%97%20Forage-Cybersecurity%20Job%20Simulation-EB001B?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=1a1a1a)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_uLRLtQHM8a4HPoxDC_1734539268803_completion_certificate.pdf)
+<a href="https://www.credly.com/badges/c780e8d2-2f69-4c29-9af6-ee8d1e5766e6" target="_blank">
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Cybersecurity%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a" alt="IBM Cybersecurity"/>
+</a>
 
-[![AWS Forage](https://img.shields.io/badge/Amazon%20AWS%20%C3%97%20Forage-Solutions%20Architecture%20Simulation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL5hBgNyBHRfN/SkYpQhM2YTzqGJrdz_pmnMSL5hBgNyBHRfN_uLRLtQHM8a4HPoxDC_1734467046434_completion_certificate.pdf)
+<br/><br/>
 
-[![Microsoft LinkedIn](https://img.shields.io/badge/Microsoft%20%C3%97%20LinkedIn-Career%20Essentials%20in%20Gen%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/learning/certificates/35505f8c02fbb64ceebff690fd828b069103b2ebf899b8bb64213384397366cc)
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_uLRLtQHM8a4HPoxDC_1734539268803_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Mastercard%20%C3%97%20Forage-Cybersecurity%20Job%20Simulation-EB001B?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=1a1a1a" alt="Mastercard Forage"/>
+</a>
 
-[![IBM Data Viz](https://img.shields.io/badge/IBM-Data%20Visualization%20Using%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a)](https://www.credly.com/go/9Vur2s1G)
+<br/><br/>
 
-<br/>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL5hBgNyBHRfN/SkYpQhM2YTzqGJrdz_pmnMSL5hBgNyBHRfN_uLRLtQHM8a4HPoxDC_1734467046434_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Amazon%20AWS%20%C3%97%20Forage-Solutions%20Architecture%20Simulation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" alt="AWS Forage"/>
+</a>
 
-| # | Certificate | Issuer | Date | Status |
+<br/><br/>
+
+<a href="https://www.linkedin.com/learning/certificates/35505f8c02fbb64ceebff690fd828b069103b2ebf899b8bb64213384397366cc" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20%C3%97%20LinkedIn-Career%20Essentials%20in%20Gen%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1a1a" alt="Microsoft LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.credly.com/go/9Vur2s1G" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Data%20Visualization%20Using%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a1a" alt="IBM Data Viz"/>
+</a>
+
+<br/><br/>
+
+| # | Certificate | Issuer | Date | Verify |
 |:---:|---|---|---|:---:|
-| 1 | Oracle Cloud Infrastructure 2025 — Gen AI Professional | Oracle University | Aug 25, 2025 | ✅ Valid till Aug 2027 |
-| 2 | Cybersecurity Fundamentals | IBM SkillsBuild | Feb 07, 2025 | ✅ Credly Verified |
-| 3 | Cybersecurity Job Simulation | Mastercard × Forage | Dec 18, 2024 | ✅ Forage Verified |
-| 4 | Solutions Architecture Job Simulation | Amazon AWS × Forage | Dec 17, 2024 | ✅ Forage Verified |
-| 5 | Career Essentials in Generative AI | Microsoft × LinkedIn | Dec 16, 2024 | ✅ LinkedIn Verified |
-| 6 | Data Visualization Using Python | IBM | Jan 09, 2024 | ✅ Credly Verified |
+| 1 | Oracle Cloud Infrastructure 2025 — Gen AI Professional | Oracle University | Aug 25, 2025 | [✅ View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D383DB7EA75A2C765CB0A36A3D9AB7C2C4BD4A15E0E882C31F1ACAD8F54B0040) |
+| 2 | Cybersecurity Fundamentals | IBM SkillsBuild | Feb 07, 2025 | [✅ View](https://www.credly.com/badges/c780e8d2-2f69-4c29-9af6-ee8d1e5766e6) |
+| 3 | Cybersecurity Job Simulation | Mastercard × Forage | Dec 18, 2024 | [✅ View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_uLRLtQHM8a4HPoxDC_1734539268803_completion_certificate.pdf) |
+| 4 | Solutions Architecture Job Simulation | Amazon AWS × Forage | Dec 17, 2024 | [✅ View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL5hBgNyBHRfN/SkYpQhM2YTzqGJrdz_pmnMSL5hBgNyBHRfN_uLRLtQHM8a4HPoxDC_1734467046434_completion_certificate.pdf) |
+| 5 | Career Essentials in Generative AI | Microsoft × LinkedIn | Dec 16, 2024 | [✅ View](https://www.linkedin.com/learning/certificates/35505f8c02fbb64ceebff690fd828b069103b2ebf899b8bb64213384397366cc) |
+| 6 | Data Visualization Using Python | IBM | Jan 09, 2024 | [✅ View](https://www.credly.com/go/9Vur2s1G) |
 
 </div>
 
@@ -136,6 +156,7 @@ const prashant = {
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -158,7 +179,7 @@ const prashant = {
 ### 🧠 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -183,7 +204,11 @@ const prashant = {
 
 ---
 
-## 🚀 Featured Project — PlacementOS
+## 🚀 Featured Projects
+
+---
+
+### 🎯 Project 1 — PlacementOS
 
 <table>
 <tr>
@@ -224,16 +249,102 @@ const prashant = {
 
 ---
 
+### 🎤 Project 2 — InterviewIQ
+
+<table>
+<tr>
+<td width="60%">
+
+### 🎤 [InterviewIQ](https://interviewiq64.vercel.app/)
+> *"I built InterviewIQ because mock interviews shouldn't just be 'read this question, write an answer'. They should feel real — with a camera on, a mic recording, and honest AI feedback after every answer."*
+
+**InterviewIQ** is India's #1 Free AI Mock Interview Platform — practice with voice, get scored by AI, land your dream job. Built for engineering students who want to practice the smart way.
+
+**✨ What makes it special:**
+- 🎙️ &nbsp;Live webcam + speech-to-text — feels like the real thing
+- 🧠 &nbsp;Per-answer AI scoring: Clarity, Relevance, Depth (0–10)
+- 👁️ &nbsp;Canvas-based attention / eye contact scoring
+- 💬 &nbsp;Confidence score with filler word detection (11 fillers tracked)
+- ⭐ &nbsp;STAR Story Builder — dump raw story, get STAR format instantly
+- 🏢 &nbsp;Company insights (FAANG + Indian Unicorns) via Groq AI
+- 📊 &nbsp;Skill Radar + Progress Over Time charts
+- 📄 &nbsp;Downloadable PNG report card after every session
+
+**🛠️ Built With:**
+`Next.js` · `TypeScript` · `TailwindCSS` · `Gemini AI` · `Groq` · `Clerk` · `PostgreSQL` · `Drizzle ORM` · `Framer Motion`
+
+</td>
+<td width="40%" align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://interviewiq64.vercel.app/)
+
+[![GitHub Repo](https://img.shields.io/badge/⭐%20Source%20Code-View%20on%20GitHub-181717?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/PrashantSinghUP64/InterviewIQ)
+
+[![Stars](https://img.shields.io/github/stars/PrashantSinghUP64/InterviewIQ?style=for-the-badge&color=F59E0B&labelColor=1e1b4b&label=⭐%20Stars)](https://github.com/PrashantSinghUP64/InterviewIQ)
+
+[![Forks](https://img.shields.io/github/forks/PrashantSinghUP64/InterviewIQ?style=for-the-badge&color=22c55e&labelColor=1e1b4b&label=🍴%20Forks)](https://github.com/PrashantSinghUP64/InterviewIQ/forks)
+
+[![Issues](https://img.shields.io/github/issues/PrashantSinghUP64/InterviewIQ?style=for-the-badge&color=ef4444&labelColor=1e1b4b&label=🐛%20Issues)](https://github.com/PrashantSinghUP64/InterviewIQ/issues)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎬 Project 3 — VidCognify
+
+<table>
+<tr>
+<td width="60%">
+
+### 🎬 [VidCognify](https://vid-cognify.vercel.app/)
+> *"YouTube has millions of educational videos. But watching all of them is impossible. VidCognify makes every minute count."*
+
+**VidCognify** is a full-stack, AI-powered YouTube intelligence platform built for students, researchers, and lifelong learners — extract maximum knowledge from any YouTube video without watching the entire thing.
+
+**✨ What makes it special:**
+- 🧠 &nbsp;Instant AI summaries with chapter-level breakdown & timestamps
+- 💬 &nbsp;Context-aware AI chat — ask anything about the video
+- ⚔️ &nbsp;Video-vs-video comparison with AI winner declaration
+- 🎓 &nbsp;Auto quiz generator (5 MCQs per video)
+- 📝 &nbsp;One-click Markdown study notes
+- 🗺️ &nbsp;Dynamic curated learning path recommendations
+- 🌍 &nbsp;Multilingual summaries in 50+ languages including Hindi
+- 🔑 &nbsp;Bring Your Own Key (BYOK) — Groq, OpenAI, Anthropic
+
+**🛠️ Built With:**
+`Next.js` · `React` · `TypeScript` · `TailwindCSS` · `PostgreSQL` · `Prisma` · `Groq` · `Better Auth` · `Framer Motion` · `Vercel`
+
+</td>
+<td width="40%" align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://vid-cognify.vercel.app/)
+
+[![GitHub Repo](https://img.shields.io/badge/⭐%20Source%20Code-View%20on%20GitHub-181717?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/PrashantSinghUP64/VidCognify)
+
+[![Stars](https://img.shields.io/github/stars/PrashantSinghUP64/VidCognify?style=for-the-badge&color=F59E0B&labelColor=1e1b4b&label=⭐%20Stars)](https://github.com/PrashantSinghUP64/VidCognify)
+
+[![Forks](https://img.shields.io/github/forks/PrashantSinghUP64/VidCognify?style=for-the-badge&color=22c55e&labelColor=1e1b4b&label=🍴%20Forks)](https://github.com/PrashantSinghUP64/VidCognify/forks)
+
+[![Issues](https://img.shields.io/github/issues/PrashantSinghUP64/VidCognify?style=for-the-badge&color=ef4444&labelColor=1e1b4b&label=🐛%20Issues)](https://github.com/PrashantSinghUP64/VidCognify/issues)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantSinghUP64&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=PrashantSinghUP64&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSinghUP64&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSinghUP64&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
@@ -243,7 +354,7 @@ const prashant = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrashantSinghUP64&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrashantSinghUP64&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -263,7 +374,7 @@ const prashant = {
 
 ```python
 class Prashant2025:
-    building    = ["PlacementOS v2.0 🚀", "AI Resume Parser", "Open Source Contributions"]
+    building    = ["InterviewIQ v2.0 🎤", "VidCognify v2.0 🎬", "Open Source Contributions"]
     learning    = ["Advanced System Design", "LLM Fine-tuning", "Kubernetes", "Oracle OCI"]
     goal        = "Land a top-tier SDE role & build impactful products for India 🇮🇳"
     available   = True  # Open to internships, full-time roles, and collaborations!
