@@ -96,14 +96,14 @@ const prashant = {
 
 <div align="center">
 
-| # | Certificate | Issuer | Date | Verify |
-|:---:|---|---|---|:---:|
-| 1 | Oracle Cloud Infrastructure 2025 — Gen AI Professional | Oracle University | Aug 25, 2025 | [✅ View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D383DB7EA75A2C765CB0A36A3D9AB7C2C4BD4A15E0E882C31F1ACAD8F54B0040) |
-| 2 | Cybersecurity Fundamentals | IBM SkillsBuild | Feb 07, 2025 | [✅ View](https://www.credly.com/badges/c780e8d2-2f69-4c29-9af6-ee8d1e5766e6) |
-| 3 | Cybersecurity Job Simulation | Mastercard × Forage | Dec 18, 2024 | [✅ View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_uLRLtQHM8a4HPoxDC_1734539268803_completion_certificate.pdf) |
-| 4 | Solutions Architecture Job Simulation | Amazon AWS × Forage | Dec 17, 2024 | [✅ View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL5hBgNyBHRfN/SkYpQhM2YTzqGJrdz_pmnMSL5hBgNyBHRfN_uLRLtQHM8a4HPoxDC_1734467046434_completion_certificate.pdf) |
-| 5 | Career Essentials in Generative AI | Microsoft × LinkedIn | Dec 16, 2024 | [✅ View](https://www.linkedin.com/learning/certificates/35505f8c02fbb64ceebff690fd828b069103b2ebf899b8bb64213384397366cc) |
-| 6 | Data Visualization Using Python | IBM | Jan 09, 2024 | [✅ View](https://www.credly.com/go/9Vur2s1G) |
+| # | Certificate | Issuer | Date |
+|:---:|---|---|---|
+| 1 | Oracle Cloud Infrastructure 2025 — Gen AI Professional | Oracle University | Aug 25, 2025 |
+| 2 | Cybersecurity Fundamentals | IBM SkillsBuild | Feb 07, 2025 |
+| 3 | Cybersecurity Job Simulation | Mastercard × Forage | Dec 18, 2024 |
+| 4 | Solutions Architecture Job Simulation | Amazon AWS × Forage | Dec 17, 2024 |
+| 5 | Career Essentials in Generative AI | Microsoft × LinkedIn | Dec 16, 2024 |
+| 6 | Data Visualization Using Python | IBM | Jan 09, 2024 |
 
 </div>
 
