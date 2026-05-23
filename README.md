@@ -261,7 +261,7 @@ const prashant = {
 ### 🎬 [VidCognify](https://vid-cognify.vercel.app/)
 > *"YouTube has millions of educational videos. But watching all of them is impossible. VidCognify makes every minute count."*
 
-**VidCognify** is a full-stack, AI-powered YouTube intelligence platform built for students, researchers, and lifelong learners — extract maximum knowledge from any YouTube video without watching the entire thing.
+**VidCognify** is a full-stack,AI-powered YouTube intelligence platform built for students, researchers, and lifelong learners — extract maximum knowledge from any YouTube video without watching the entire thing.
 
 **✨ What makes it special:**
 - 🧠 &nbsp;Instant AI summaries with chapter-level breakdown & timestamps
