@@ -23,7 +23,7 @@
 
 ```typescript
 const prashant = {
-  name        : "Prashant Kumar ",
+  name        : "Prashant Kumar Singh",
   title       : "Full Stack Developer & AI/ML Engineer",
   education   : "B.Tech CSE — MPGI, AKTU | Kanpur, India 🇮🇳 (2023–2027)",
   currentFocus: ["InterviewIQ", "VidCognify", "LangChain Apps", "Open Source"],
