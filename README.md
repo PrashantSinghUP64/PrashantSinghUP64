@@ -311,7 +311,7 @@ class Prashant2025:
 
 <div align="center">
 
-> 💼 **Open to:** Full-time SDE Roles · Internships · Freelance Projects · Open Source
+> 💼 **Open :** Full-time SDE Roles · Internships · Freelance Projects · Open Source
 
 > 🤝 **Interests:** EdTech · AI/ML Products · SaaS · Developer Tools · Cloud Solutions
 
