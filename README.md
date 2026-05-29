@@ -24,13 +24,14 @@
 <div align="center">
 
 <!-- GitHub Stats Cards - Row 1 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSinghUP64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSinghUP64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&cache_seconds=1800"/>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
+<!-- GitHub Streak — using git.io mirror which is more stable -->
+<img src="https://streak-stats.demolab.com/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -283,7 +284,7 @@ const prashant = {
 ### 🎬 [VidCognify](https://vid-cognify.vercel.app/)
 > *"YouTube has millions of educational videos. But watching all of them is impossible. VidCognify makes every minute count."*
 
-**VidCognify** is a full-stack,AI-powered YouTube intelligence platform built for students, researchers, and lifelong learners — extract maximum knowledge from any YouTube video without watching the entire thing.
+**VidCognify** is a full-stack, AI-powered YouTube intelligence platform built for students, researchers, and lifelong learners — extract maximum knowledge from any YouTube video without watching the entire thing.
 
 **✨ What makes it special:**
 - 🧠 &nbsp;Instant AI summaries with chapter-level breakdown & timestamps
