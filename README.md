@@ -19,6 +19,28 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- GitHub Stats Cards - Row 1 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSinghUP64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantSinghUP64&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=302b63&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 ```typescript
