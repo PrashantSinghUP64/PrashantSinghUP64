@@ -26,7 +26,7 @@
 <!-- ✅ Row 1: Stats Card (Lifetime Commits + PRs + Issues + Stars) + Streak Card side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&rank_icon=github" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888&hide_total_contributions=true" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrashantSinghUP64&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&rank_icon=github" alt="GitHub Stats" height="180"/>
 
 <br/><br/>
 
