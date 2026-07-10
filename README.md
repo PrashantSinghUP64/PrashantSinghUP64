@@ -26,6 +26,8 @@
 <!-- GitHub Streak — FIXED: using stable mirror instead of demolab -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888&hide=currstreak" alt="GitHub Streak"/>
+
 <br/><br/>
 
 <!-- Contribution Graph -->
