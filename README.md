@@ -17,14 +17,12 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
 <!-- GitHub Streak — FIXED: using stable mirror instead of demolab -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrashantSinghUP64&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888&hide=currstreak" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -32,8 +30,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantSinghUP64&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=302b63&hide_border=true" alt="Contribution Graph"/>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
